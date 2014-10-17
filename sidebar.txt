@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csz:home|Door43 (csz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csz|d43-csz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csz/archive/master.zip|d43-csz.zip]]
+
+**Recent Changes**
+{{changes>ns = csz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csz|Ethnologue data]]
+
